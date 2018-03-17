@@ -4,7 +4,7 @@ Working through Introduction to Algorithms, Third Edition (CLRS) in Python with 
 This is a work in progress, but I thought it would be useful to journal my progress through this book.
 I will work through all of the problems in the book in the following order:
 
-| Chapter    | Description                                      | Link                         |
+| Chapter    | Description                                      | Notebook Link                |
 |------------|--------------------------------------------------|------------------------------|
 | 2          | Getting Started                                  | [Chapter 2](Chapter_2.ipynb) |
 | 3          | Growth of Functions                              |                              |
