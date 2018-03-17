@@ -1,5 +1,5 @@
 # clrs-jupyter
-Working through CLRS (Introduction to Algorithms) in Python with Jupyter Notebook, Third Edition
+Working through Introduction to Algorithms, Third Edition (CLRS) in Python with Jupyter Notebook
 
 This is a work in progress, but I thought it would be useful to journal my progress through this book.
 I will work through all of the problems in the book in the following order:
