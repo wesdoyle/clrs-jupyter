@@ -6,15 +6,15 @@ I will work through all of the problems in the book in the following order:
 
 | Chapter    | Description                                      | Notebook Link                |
 |------------|--------------------------------------------------|------------------------------|
-| 2          | Getting Started                                  | [Chapter 2](Chapter_2.ipynb) |
+| 2          | Getting Started                                  | [Chapter 2](Chapter_02.ipynb)|
 | 3          | Growth of Functions                              |                              |
 | 4          | Divide and Conquer                               |                              |
 | 5          | Probabilistic Analysis and Randomized Algorithms |                              |
-| 6          | Heapsort                                         | [Chapter 6](Chapter_6.ipynb) |
+| 6          | Heapsort                                         | [Chapter 6](Chapter_06.ipynb)|
 | 7          | Quicksort                                        |                              |
 | 8          | Sorting In Linear Time                           |                              |
 | 9          | Medians and Order Statistics                     |                              |
-| 10         | Elementary Data Structures                       |                              |
+| 10         | Elementary Data Structures                       |[Chapter 10](Chapter_10.ipynb)|
 | 11         | Hash Tables                                      |                              |
 | 12         | Binary Search Trees                              |                              |
 | 13         | Red-Black Trees                                  |                              |
