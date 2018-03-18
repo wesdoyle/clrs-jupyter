@@ -10,7 +10,7 @@ I will work through all of the problems in the book in the following order:
 | 3          | Growth of Functions                              |                              |
 | 4          | Divide and Conquer                               |                              |
 | 5          | Probabilistic Analysis and Randomized Algorithms |                              |
-| 6          | Heapsort                                         |                              |
+| 6          | Heapsort                                         | [Chapter 6](Chapter_6.ipynb) |
 | 7          | Quicksort                                        |                              |
 | 8          | Sorting In Linear Time                           |                              |
 | 9          | Medians and Order Statistics                     |                              |
