@@ -26,7 +26,7 @@ I will work through all of the problems in the book in the following order:
 | 19         | Fibonacci Heaps                                  |                              |
 | 20         | van Emde Boas Trees                              |                              |
 | 21         | Data Structures for Disjoint Sets                |                              |
-| 22         | Elementary Graph Algorithms                      |                              |
+| 22         | Elementary Graph Algorithms                      |[Chapter 22](Chapter_22.ipynb)|
 | 23         | Minimum Spanning Trees                           |                              |
 | 24         | Single-Source Shortest Paths                     |                              |
 | 25         | All-Pairs Shortest Paths                         |                              |
